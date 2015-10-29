@@ -11,7 +11,7 @@
  ***********************************************************************************************************************
  *
  * ECE 471 : Project 2 Augmentation part
- *
+ * =====================================
  * Last Modified by/Date: Niloo Ranjan, 10/07/2015
  * Addition: modified the command line argument option. Auugmented the original file with functions and code 
  * needed to perform the tasks for Project 2.
